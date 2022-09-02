@@ -3,15 +3,15 @@
 This is my personal repository. Under construccion :construction:
 
 <p align="center">
-    <a href="https://es.linkedin.com/in/marci-arevalo-lopez-2616028b?trk=public-profile-badge-profile-badge-view-profile-cta">
+    <a href="https://es.linkedin.com/in/marci-arevalo-lopez-2616028b?trk=public-profile-badge-profile-badge-view-profile-cta" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="25px" />
     </a>
     &nbsp;
-    <a href="https://github.com/Marci-AR/">
+    <a href="https://github.com/Marci-AR/" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="25px" />
     </a>
     &nbsp;
-    <a href="https://twitter.com/MarciArevalo">
+    <a href="https://twitter.com/MarciArevalo" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" width="25px" />
     </a>
 </p>
