@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This my personal repository. Under construccion :construction:
+This is my personal repository. Under construccion :construction:
 
 <!--
 **Marci-AR/Marci-AR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
