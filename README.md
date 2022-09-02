@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Marci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&count_private=true)
 
+<!--
 <p align="left">
   <a href="https://github.com/Marci-AR">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&count_private=true&include_all_commits=true&locale=es" />
@@ -26,13 +28,11 @@ Here are some ideas to get you started:
     <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marci-AR" />
   </a>
 </p>
+-->
 
 <p align="center">
   <a href="https://github.com">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marci-AR&layout=compact&langs_count=10&&locale=es" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marci-AR&layout=compact" />
   </a>
 </p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&count_private=true)
+![Marci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&count_private=true)
