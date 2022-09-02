@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&theme=radical)
