@@ -2,6 +2,20 @@
 
 This is my personal repository. Under construccion :construction:
 
+<p align="center">
+    <a href="https://es.linkedin.com/in/marci-arevalo-lopez-2616028b?trk=public-profile-badge-profile-badge-view-profile-cta">
+        <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Marci-AR/">
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" width="25px" />
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/MarciArevalo">
+        <img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png" width="25px" />
+    </a>
+</p>
+
 <!--
 **Marci-AR/Marci-AR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR)](https://github.com/Marci-AR/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marci-AR)](https://github.com/Marci-AR/github-readme-stats)
+
 
 <!--
 [Marci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&count_private=true)
