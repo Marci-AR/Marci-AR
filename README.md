@@ -28,11 +28,10 @@ Here are some ideas to get you started:
     <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marci-AR" />
   </a>
 </p>
--->
 
 <p align="center">
   <a href="https://github.com">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marci-AR&layout=compact" />
   </a>
 </p>
-[Marci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&count_private=true)
+-->
