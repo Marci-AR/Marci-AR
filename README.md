@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Marci-AR">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&count_private=true&include_all_commits=true&locale=es" />
   </a>
 </p>
 
-<p align="center">
+<p align="right">
   <a href="https://github.com/Marci-AR">
     <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marci-AR" />
   </a>
