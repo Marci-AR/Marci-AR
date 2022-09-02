@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This my personal repository. Under construccion :construction:
+
 <!--
 **Marci-AR/Marci-AR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Marci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&count_private=true)
 
 <!--
+[Marci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&count_private=true)
+
 <p align="left">
   <a href="https://github.com/Marci-AR">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&count_private=true&include_all_commits=true&locale=es" />
