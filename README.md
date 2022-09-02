@@ -2,6 +2,8 @@
 
 This is my personal repository. Under construccion :construction:
 
+
+
 <p align="center">
     <a href="https://es.linkedin.com/in/marci-arevalo-lopez-2616028b?trk=public-profile-badge-profile-badge-view-profile-cta"target="_blank"rel="noopener noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="25px" />
@@ -33,6 +35,12 @@ Here are some ideas to get you started:
 
 
 <!--
+
+<p align="center">
+    <a href="https://github.com/Marci-AR">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&count_private=true&include_all_commits=true"/>
+  </a>
+</p>
 [Marci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&count_private=true)
 
 <p align="left">
