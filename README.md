@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Marci 👋
 
 This is my personal repository. Under construccion :construction:
 
