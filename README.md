@@ -2,7 +2,30 @@
 
 This is my personal repository. Under construccion :construction:
 
-
+<table style="border: hidden" align="center">
+<tr style="border: hidden">
+<td style="border: hidden">
+<p align="center">
+    <a href="https://github.com/Marci-AR">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Marci-AR&show_icons=true&count_private=true&include_all_commits=true"/>
+  </a>
+</p>
+</td>
+<td>
+</p>
+<p align="right">
+  <a href="https://github.com/Marci-AR">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marci-AR" />
+  </a>
+</p>
+</td>
+</tr>
+</table>
+<p align="center">
+  <a href="https://github.com">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marci-AR&layout=compact" />
+  </a>
+</p>
 
 <p align="center">
     <a href="https://es.linkedin.com/in/marci-arevalo-lopez-2616028b?trk=public-profile-badge-profile-badge-view-profile-cta"target="_blank"rel="noopener noreferrer">
