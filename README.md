@@ -1,6 +1,6 @@
 ### Hi there, my name is Marci 👋
 
-This is my personal repository. Under construccion :construction:
+This is my personal repository. Under construction :construction:
 
 <table style="border: hidden" align="center">
 <tr style="border: hidden">
